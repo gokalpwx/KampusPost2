@@ -6,3 +6,5 @@
 <img width="1919" height="1079" alt="navigator" src="https://github.com/user-attachments/assets/c4308b31-c216-446f-8939-153008ec9a7f" />
 <img width="1912" height="1074" alt="useEffect-veriçekme" src="https://github.com/user-attachments/assets/0f366792-5b5c-49d9-a3fa-24c53fdd709e" />
 <img width="581" height="967" alt="veriler" src="https://github.com/user-attachments/assets/213b50a9-c7f9-4962-9984-8c7ab5b10226" />
+<img width="654" height="55" alt="Screenshot_22" src="https://github.com/user-attachments/assets/06dc0f5b-0d70-413c-bbdb-00c4445d4fab" />
+
